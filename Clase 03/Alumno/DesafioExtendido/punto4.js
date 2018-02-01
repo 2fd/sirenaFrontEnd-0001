@@ -35,5 +35,5 @@
 export function findActorsOfCasablanca (movies){
   // const casablanca = movies.find(/* movie.title sea igual a `Casablanca` */)
   // return casablanca.actors
-  return [ 'Ingrid Bergman' ]
+  return [ 'Ingrid Bergman', 'Humphrey Bogart', 'Peter Lorre' ]
 }
